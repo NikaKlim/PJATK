@@ -16,7 +16,7 @@ Do not use arrays, strings or any other kind of collections
 **//
 import java.util.Scanner;
  
-public class KLIMENKO
+public class Task2
     { 
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
