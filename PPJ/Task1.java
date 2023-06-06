@@ -19,7 +19,7 @@ somewhere in the middle, or at the very end.
 **/
 import java.util.Scanner;
  
-public class KLIMENKO
+public class Task1
     { 
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
